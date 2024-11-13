@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid #f31010;
+    padding-top: 30px;
+    text-align: center;
+    margin-left:0cqmax;
+    background-color: rgb(5, 5, 4);
+    height: 100px;
+}
+
+#bo{
+    background-color: #f31010;
+    margin-top: 5px;
+    color: aqua;
+    border: #0a0606 solid;
+}
